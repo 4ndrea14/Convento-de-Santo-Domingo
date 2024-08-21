@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color: #4d879d;
+}
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.portada img{
+  width: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  color: #f2f2f2;
+  font-family: 'Roboto', sans-serif;
+}
+.enlace p{
+  font-size: 30px;
+  color: #f2f2f2;
+  font-family: 'Bauhaus 93';
+}
+.subtitulo p{
+  font-size: 40px;
+  color: #f2f2f2;
+  font-family: 'Arial Black';
+  }
+.explicacion p{
+  font-size: 30px;
+  color: #f2f2f2;
+  font-family: 'Bradley Hand ITC';
+  text-align: justify;
+  margin: 20px;
+}
+.explicacion img{
+  height: 300px;
+}
